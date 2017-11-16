@@ -1,0 +1,5 @@
+# Ignore compiled Python code
+*.pyc
+
+# Ignore OSX service files
+.DS_Store
