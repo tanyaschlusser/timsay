@@ -1,5 +1,7 @@
-# Ignore compiled Python code
+# Ignore compiled Python code and any zip executables
 *.pyc
+*.pyz
+
 
 # Ignore OSX service files
 .DS_Store
