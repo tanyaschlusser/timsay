@@ -25,8 +25,7 @@ that can run on any computer that has Python installed; including with bundled
 libraries.::
 
     git clone https://github.com/tanyaschlusser/timsay.git
-    cd timsay
-    python -m . timsay -p "/usr/bin/env python"
+    python -m zipapp timsay -p "/usr/bin/env python"
     ./timsay.pyz
 
 Even without Python 3.5 you can download these files zipped
