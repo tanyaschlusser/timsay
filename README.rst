@@ -1,5 +1,5 @@
-Timsay - Cowsay, but with ASCII Tim Petersen!
-=============================================
+Timsay - Cowsay, but with ASCII Tim Peters!
+===========================================
 
 ::
 
